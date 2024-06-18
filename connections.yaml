@@ -1,0 +1,5 @@
+- password: '345'
+  user: first
+- aser: second
+  host: 127.0.0.1
+  password: '346'
