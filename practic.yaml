@@ -1,0 +1,11 @@
+- password: '345'
+  user: first
+- aser: second
+  host: 127.0.0.1
+  password: '346'
+- host: 127.0.0.2
+  password: '34445'
+  user: two
+- host: 127.0.0.1
+  password: '37746'
+  user: secondary
